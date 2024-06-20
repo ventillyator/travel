@@ -1,0 +1,22 @@
+
+/* Header */
+header{
+    background-color: rgb(52, 120, 236);
+    color: aliceblue;
+}
+header a{
+    color: aliceblue;
+    text-decoration: none;
+}
+header a:hover{
+    color: red;
+    transition: all 500ms;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.headeer-title{
+    font-size: 30px;
+    font-weight: 700;
+}

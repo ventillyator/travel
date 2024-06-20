@@ -1,0 +1,31 @@
+/* Register */
+
+.title{
+   display: flex;
+   justify-content: center;
+   font-weight: 700;
+   font-size: 25px;
+}
+form{
+    background-color: rgb(173, 213, 251);
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    flex-direction: column; 
+    border-radius: 10px;
+}
+form input{
+   width: 70svw;
+   padding: 7px;
+}
+
+/* Home  */
+
+.travel{
+   border:  1px solid black;
+   padding: 10px;
+   border-radius: 10px  ;
+}
+.travel img{
+   max-width: 100px;
+}
